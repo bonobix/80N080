@@ -9,7 +9,7 @@
 - 🎯 Goal: evolve from Help Desk Knight → DevOps Archmage  
 
 ## ⚔️ Skills & Tools
-- **Languages:** Bash, Python, YAML (and a bit of Terraform)  
+- **Languages:** Bash, Python, YAML 
 - **DevOps Arsenal:** Kubernetes, Ansible, Docker, Proxmox, GitHub Actions  
 - **Networking Spells:** VPNs, Firewalls, DNS, Wi-Fi wizardry  
 - **OS Realms:** Linux 🐧, Windows 🪟, macOS 🍎  
