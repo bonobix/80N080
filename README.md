@@ -20,7 +20,6 @@
 - 🧠 Deploying AI models  
 
 ## 📊 GitHub Stats
-#![Stats](https://github-readme-stats.vercel.app/api?username=80N080&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=80N080&layout=compact&theme=radical)
 
 ## 🎲 Fun Fact
