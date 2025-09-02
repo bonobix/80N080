@@ -25,5 +25,3 @@
 ## 🎲 Fun Fact
 When I'm not debugging pods, I'm rolling d20s and hoping for crits.
 
----
-💌 **Let’s connect:** [LinkedIn](www.linkedin.com/in/eduard-platon-67b987283) 
