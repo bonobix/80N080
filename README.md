@@ -1,1 +1,1 @@
-![snake gif](https://github.com/bonobix/bonobix/blob/output/snake.svg)
+![snake gif](https://raw.githubusercontent.com/bonobix/bonobix/refs/heads/output/github-contribution-grid-snake.svg)
