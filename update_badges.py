@@ -1,8 +1,9 @@
 import requests
 import re
 
-USERNAME = "eduard-platon.6f312b2b"  
+USERNAME = "eduard-platon.6f312b2b" 
 README_PATH = "README.md"
+IMG_WIDTH = 100  # <-- qui definisci la larghezza desiderata in pixel
 
 # Recupera dati dei badge
 url = f"https://www.credly.com/users/{USERNAME}/badges.json"
@@ -18,7 +19,8 @@ for b in data:
     img = b["badge_template"]["image"]["url"]
     badge_id = b["id"]
     link = f"https://www.credly.com/badges/{badge_id}"
-    badges.append(f"[![{name}]({img})]({link})")
+    # Markdown HTML con larghezza fissa
+    badges.append(f'<a href="{link}"><img src="{img}" width="{IMG_WIDTH}" alt="{name}"/></a>')
 
 # Leggi il README e sostituisci la sezione
 with open(README_PATH, "r") as f:
@@ -32,4 +34,4 @@ updated = re.sub(pattern, replacement, content, flags=re.DOTALL)
 with open(README_PATH, "w") as f:
     f.write(updated)
 
-print("✅ Sezione badge aggiornata!")
+print(f"✅ Sezione badge aggiornata con larghezza {IMG_WIDTH}px!")
