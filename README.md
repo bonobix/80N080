@@ -1,3 +1,5 @@
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=bonobix&show_icons=true&theme=radical)
+
 ![snake gif](https://raw.githubusercontent.com/bonobix/bonobix/refs/heads/output/github-contribution-grid-snake.svg)
 
 <!-- badges-start -->
