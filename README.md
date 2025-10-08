@@ -1,10 +1,13 @@
 ![snake gif](https://raw.githubusercontent.com/bonobix/bonobix/refs/heads/output/github-contribution-grid-snake.svg)
 
 <!-- badges-start -->
-<p align="center">
-  <a href="https://www.credly.com/badges/ac205c80-c880-4703-a11a-644755ed6a01/public_url"><img src="https://images.credly.com/size/340x340/images/2397c05c-eb0e-4b08-be97-9e8261d43125/blob" width="100" alt="Linux Foundation Badge"/></a>
- <a href="https://www.credly.com/badges/fad3249a-05ed-4b72-a67d-82715a48eb49/public_url"><img src="https://images.credly.com/size/340x340/images/032a65da-a036-4d05-ad80-8fc1274363ab/blob" width="100" alt="Linux Foundation Badge"/></a>
- <a href="https://www.credly.com/badges/2a4e593a-7a4d-4fad-80fb-e5cd1be8abbb/public_url"><img src="https://images.credly.com/size/340x340/images/123746a7-fbbe-4fdd-9c0c-f0254e53292a/blob" width="100" alt="Linux Foundation Badge"/></a>
- <a href="https://www.credly.com/badges/355fff1a-76ff-4614-8e77-a88a4d1ff3d4/public_url"><img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="100" alt="Linux Foundation Badge"/></a>
-</p>
+[![LFS162: Introduction to DevOps and Site Reliability Engineering](https://images.credly.com/images/2397c05c-eb0e-4b08-be97-9e8261d43125/blob)](https://www.credly.com/badges/ac205c80-c880-4703-a11a-644755ed6a01)
+[![LFS169: Introduction to GitOps](https://images.credly.com/images/032a65da-a036-4d05-ad80-8fc1274363ab/blob)](https://www.credly.com/badges/fad3249a-05ed-4b72-a67d-82715a48eb49)
+[![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](https://www.credly.com/badges/8ae3f72e-897b-45f8-8c16-a4deaf87d92f)
+[![LFS151: Introduction to Cloud Infrastructure Technologies](https://images.credly.com/images/c52b0e6e-e171-41c2-a459-b8e618ea1e72/blob)](https://www.credly.com/badges/97024987-a8d5-4b43-bc91-5f560564c84c)
+[![CKA: Certified Kubernetes Administrator](https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](https://www.credly.com/badges/355fff1a-76ff-4614-8e77-a88a4d1ff3d4)
+[![LFS101: Introduction to Linux](https://images.credly.com/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob)](https://www.credly.com/badges/075a4e78-38fe-4c85-9aca-865f0574147b)
+[![LFS158: Introduction to Kubernetes](https://images.credly.com/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/blob)](https://www.credly.com/badges/72f966d9-874a-4b90-9355-32723ae21e43)
+[![LFS250: Kubernetes and Cloud Native Essentials](https://images.credly.com/images/7404ca0d-98e1-48b6-a2a3-de8d7dcd85b5/blob)](https://www.credly.com/badges/f93be6b1-8a7c-4fbd-a966-e93c9dfaae6f)
+[![LFS258: Kubernetes Fundamentals](https://images.credly.com/images/123746a7-fbbe-4fdd-9c0c-f0254e53292a/blob)](https://www.credly.com/badges/2a4e593a-7a4d-4fad-80fb-e5cd1be8abbb)
 <!-- badges-end -->
