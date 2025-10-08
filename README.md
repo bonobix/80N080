@@ -1,7 +1,7 @@
 ![snake gif](https://raw.githubusercontent.com/bonobix/bonobix/refs/heads/output/github-contribution-grid-snake.svg)
 
 <!-- badges-start -->
-[![LFS162: Introduction to DevOps and Site Reliability Engineering](https://images.credly.com/images/2397c05c-eb0e-4b08-be97-9e8261d43125/blob)](https://www.credly.com/badges/ac205c80-c880-4703-a11a-644755ed6a01)
+[![LFS162: Introduction to DevOps and Site Reliability Engineering](https://images.credly.com/images/2397c05c-eb0e-4b08-be97-9e8261d43125/blob){width=100px}](https://www.credly.com/badges/ac205c80-c880-4703-a11a-644755ed6a01)
 [![LFS169: Introduction to GitOps](https://images.credly.com/images/032a65da-a036-4d05-ad80-8fc1274363ab/blob)](https://www.credly.com/badges/fad3249a-05ed-4b72-a67d-82715a48eb49)
 [![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](https://www.credly.com/badges/8ae3f72e-897b-45f8-8c16-a4deaf87d92f)
 [![LFS151: Introduction to Cloud Infrastructure Technologies](https://images.credly.com/images/c52b0e6e-e171-41c2-a459-b8e618ea1e72/blob)](https://www.credly.com/badges/97024987-a8d5-4b43-bc91-5f560564c84c)
