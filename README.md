@@ -1,5 +1,5 @@
 DevOps & Cloud Native enthusiast in the making
-### 🛠️ Linux | Kubernetes | Bash | Python
+### 🛠️ Linux | Kubernetes | Bash | Python | Open Source is the way
 ![snake gif](https://raw.githubusercontent.com/bonobix/bonobix/refs/heads/output/github-contribution-grid-snake.svg)
 
 <!-- badges-start -->
