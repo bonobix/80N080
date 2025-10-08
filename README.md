@@ -1,4 +1,10 @@
 ![snake gif](https://raw.githubusercontent.com/bonobix/bonobix/refs/heads/output/github-contribution-grid-snake.svg)
 
+<p align="center">
+  <a href="https://www.credly.com/badges/ac205c80-c880-4703-a11a-644755ed6a01/public_url"><img src="https://images.credly.com/images/ac205c80-c880-4703-a11a-644755ed6a01/linux-foundation-badge.png" width="100"/></a>
+  <a href="https://www.credly.com/badges/ID2"><img src="https://images.credly.com/images/ID2/badge.png" width="100"/></a>
+  <a href="https://www.credly.com/badges/ID3"><img src="https://images.credly.com/images/ID3/badge.png" width="100"/></a>
+</p>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ac205c80-c880-4703-a11a-644755ed6a01" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+https://www.credly.com/badges/ac205c80-c880-4703-a11a-644755ed6a01/public_url
