@@ -1,5 +1,4 @@
-DevOps & Cloud Native enthusiast in the making
-### 🛠️ Linux | Kubernetes | Bash | Python | Everything open source 
+
 ![snake gif](https://raw.githubusercontent.com/bonobix/bonobix/refs/heads/output/github-contribution-grid-snake.svg)
 
 <!-- badges-start -->
