@@ -1,7 +1,7 @@
 import requests
 import re
 
-USERNAME = "mario-alimenti"  # <-- Cambia con il tuo username Credly
+USERNAME = "eduard-platon.6f312b2b"  
 README_PATH = "README.md"
 
 # Recupera dati dei badge
