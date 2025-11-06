@@ -1,5 +1,5 @@
 ### System Administrator & Lifelong learner
-Here you will see my achievements and coding,
+Here you will see my achievements and code,
 stuff that I am into involves Linux & Networking
 
 ![snake gif](https://raw.githubusercontent.com/bonobix/bonobix/refs/heads/output/github-contribution-grid-snake.svg)
