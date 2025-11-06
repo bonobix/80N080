@@ -3,7 +3,7 @@ import re
 
 USERNAME = "eduard-platon.6f312b2b" 
 README_PATH = "README.md"
-IMG_WIDTH = 75 
+IMG_WIDTH = 50 
 
 # Recupera dati dei badge
 url = f"https://www.credly.com/users/{USERNAME}/badges.json"
